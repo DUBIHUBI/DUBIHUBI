@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Hubert
 
+I'm an enthusiastic junior full-stack developer and I love coding and problem solving!
 <!--
 **DUBIHUBI/DUBIHUBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Devder
+- 🌱 I’m currently learning React

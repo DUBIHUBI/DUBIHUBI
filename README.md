@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Devder
 - 🌱 I’m currently learning React
 
-[![Linkedin: hubert-yu](https://img.shields.io/badge/-hubert-yu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hubert-yu/)](https://www.linkedin.com/in/hubert-yu/)
+[![Linkedin: hubert-yu](https://img.shields.io/badge/-HubertYu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hubert-yu/)](https://www.linkedin.com/in/hubert-yu/)
 [![GitHub follow](https://img.shields.io/github/followers/DUBIHUBI?label=follow&style=social)](https://github.com/DUBIHUBI)
 
 ### <h2>🛠 Languages and Tools 🛠</h2>
